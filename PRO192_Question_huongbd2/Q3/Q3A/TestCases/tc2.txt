@@ -1,0 +1,21 @@
+INPUT:
+5
+a
+7
+b
+11
+c
+8
+d
+11
+e
+9
+2
+OUTPUT:
+(a,7) (b,11) (c,8) (e,9) 
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+NO
+MARK:
+1.0

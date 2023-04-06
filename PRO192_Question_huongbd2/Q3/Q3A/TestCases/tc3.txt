@@ -1,0 +1,17 @@
+INPUT:
+3
+a9
+1
+b6
+2
+c5
+3
+3
+OUTPUT:
+(c5,3)(b6,2)(a9,1) 
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+NO
+MARK:
+1.0

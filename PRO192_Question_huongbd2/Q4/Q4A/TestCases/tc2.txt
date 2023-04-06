@@ -1,0 +1,11 @@
+INPUT:
+2
+ab cd abcba uv 12321 xy
+OUTPUT:
+ab cd XX uv XX xy
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+YES
+MARK:
+1.0

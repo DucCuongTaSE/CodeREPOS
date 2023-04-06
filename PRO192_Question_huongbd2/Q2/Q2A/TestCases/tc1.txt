@@ -1,0 +1,14 @@
+INPUT:
+alanbata
+10
+15
+1
+OUTPUT:
+alanbata, 10
+alanbata, 10, 15
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+NO
+MARK:
+1.0
